@@ -1,0 +1,21 @@
+# Java build artifacts
+*.class
+bin/
+out/
+target/
+*.jar
+
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# IDE / Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+.DS_Store
